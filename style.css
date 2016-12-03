@@ -1,0 +1,39 @@
+#aremc{
+	margin: 10px 0px;
+}
+
+.aremc_sidebar #aremc{
+	margin: 0px;
+}
+
+.aremc_label{
+	margin-right: 10px;
+}
+
+.aremc_field{
+}
+
+.aremc_sidebar span{
+	display: block;
+	margin-right: 0px;
+}
+
+.aremc_sidebar td{
+	display: block;
+	float: left;
+	margin-right: 15px;
+}
+
+.aremc_sidebar .aremc_label{
+	margin-top: 5px;
+}
+
+.aremc_sidebar input{
+}
+
+.aremc_footer{
+	font-size:10px;
+	text-align:center;
+	line-height: 10px;
+	font-style: italic;
+}
